@@ -4,7 +4,7 @@
 
   Example output:
   
-  root@ctpmnstr:~/ctp_notes/files# tail -f /var/www/output.txt
+  root@ctpmnstr:~# tail -f /var/www/output.txt
   
   [ 22:49:36 on 2015-07-28 ]
   
